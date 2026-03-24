@@ -1,0 +1,16 @@
+{
+  "name": "cache-manager",
+  "version": "1.0.0",
+  "description": "In-memory cache with TTL support",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "cache",
+    "manager"
+  ],
+  "author": "RyanMoshi",
+  "license": "MIT"
+}
